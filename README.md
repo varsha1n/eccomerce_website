@@ -2,7 +2,7 @@
 
 Follow these Steps to run the project
 
-1: Download the zip file or Clone the Project using the command - git clone https://github.com/varsha1n/ecommerce.git
+1: Download the zip file
 
 2: Extract files
 
