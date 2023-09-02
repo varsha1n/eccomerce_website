@@ -10,6 +10,6 @@ Follow these Steps to run the project
 
 4:Run the command - npm install - First install all the packages
 
-5: Run the project using - npm start
+5: Run the react app by opening new terminal & run command - npm start
 
 6:To start a JSON Server fake REST API open new terminal & run command- npx json-server --watch -p 3001 db.json 
